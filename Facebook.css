@@ -1,0 +1,169 @@
+.Haut
+{
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(59, 89, 152);
+    color:white;
+}
+body
+{
+    background-color: rgb(211, 217, 235);
+    color: rgb(102, 100, 100); 
+}
+.Face:nth-child(1)
+{
+    flex:1;
+    margin: auto;
+    margin-left: 3em;
+    color: white;
+    font-size: xx-large;
+}
+.free
+{
+    color: black;
+}
+.upright
+{
+    font-size: small;
+}
+.forg
+{
+    color: rgb(128, 140, 170);
+}
+.log
+{
+    background-color: rgb(44, 76, 145);
+    
+}
+.corps
+{
+    font-family: Arial, Helvetica, sans-serif;
+    display:flex;
+    justify-content: center;
+}
+.left
+{
+    margin-top: 5em; 
+    padding-right: 5em; 
+}
+.blue
+{
+    color: blue;
+    background-color: rgb(211, 217, 235);
+}
+.ptit
+{
+    font-size: xx-small;
+}
+.bula
+{
+    color: rgb(56, 56, 151);
+    background-color: rgb(211, 217, 235);
+}
+.bas
+{
+    background-color: rgb(211, 217, 235);
+    border-top: 1px solid rgb(185, 185, 185);
+    padding-top: 1em;
+    color: rgb(134, 134, 134);
+}
+.sign
+{
+    background-color: rgb(79, 110, 45);
+    margin-left: 5em;
+    color: white;
+    width: 23%;
+    padding-left: 2.5em;
+    padding-right: 1em;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+.mobil
+{
+    width:100%;
+}
+.pass
+{
+    width: 100%;
+}
+.birth
+{
+    color: rgb(128, 140, 170);
+}
+.mont
+{
+    color: black;
+}
+.da
+{
+    color: black;
+}
+.yea
+{
+    color: black;
+}
+.mon
+{
+    width: 20%;
+}
+.day
+{
+    width: 20%;
+}
+.year
+{  
+    width:20%;
+}
+strong
+{
+    color: black;
+}
+.gender
+{
+    color: rgb(128, 140, 170);
+}
+.fem
+{
+    width: 10%;
+    border-radius: 100%;
+    border: 1px black solid;
+}
+.mal
+{
+    width: 10%;
+    border-radius: 100%;
+    border: 1px black solid;
+}
+.cus
+{
+    width: 10%;
+    border-radius: 100%;
+    border: 1px black solid;
+}
+.feme
+{
+    color: black;
+}
+.male
+{
+    color: black;
+}
+.cust
+{
+    color: black;
+}
+.gr
+{
+    color: rgb(134, 134, 134);
+}
+.cob
+{
+    height: 30px;
+    width: 100%;
+}
+.tab
+{
+    border-spacing: 10px;
+}
